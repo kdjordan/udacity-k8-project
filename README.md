@@ -1,9 +1,9 @@
-### Udacity K8s Project 
+# Udacity K8s Project 
 
 ALl screenshots in /screenshots
 Images are in order od the Rubic requests..
 
-# Repos 
+### Repos 
 
 Front End : https://github.com/kdjordan/ud-project-microservices-frontend \
 Feed Service : https://github.com/kdjordan/ud-project-udagram-microservices-feed \
