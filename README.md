@@ -1,6 +1,6 @@
 # Udacity K8s Project 
 
-Images are in order od the Rubic requests..
+Images are in order of the Rubic requirements.
 
 ### Repos 
 
