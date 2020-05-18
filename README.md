@@ -1,6 +1,5 @@
 # Udacity K8s Project 
 
-ALl screenshots in /screenshots
 Images are in order od the Rubic requests..
 
 ### Repos 
